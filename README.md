@@ -24,7 +24,7 @@ This repository contains a collection of SQL queries designed to analyze product
 * A considerable portion of the product catalog offers discounts of 50% or more. This could indicate either clearance sales, high initial pricing, or efforts to boost sales for specific products. Understanding the reasons behind such steep discounts can help in optimizing pricing strategies.
   
 3. Demand for Specific Products:
-*Products containing the word "Cable" in their name are common. This suggests a strong demand for cables, which might be worth exploring further in terms of inventory management and marketing efforts.
+**Products containing the word "Cable" in their name are common. This suggests a strong demand for cables, which might be worth exploring further in terms of inventory management and marketing efforts.
 
 4. Price-Value Perception:
 * The difference between the average actual price and the discounted price of products provides insights into customer perception of value. Products with a significant price difference might be perceived as offering better value, which can be leveraged in promotional activities.
