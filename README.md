@@ -17,7 +17,7 @@ This repository contains a collection of SQL queries designed to analyze product
 * List all products where the category includes "Accessories."
 ## KeyInsight
 ### Key Insights:
-1. Affordable Products with High Discounts:
+#### 1. Affordable Products with High Discounts:
 * A significant number of products have discounted prices below ₹500, making them attractive to price-sensitive customers. These products can be targeted in marketing campaigns aimed at budget-conscious buyers.
   
 2. High Discount Opportunities:
